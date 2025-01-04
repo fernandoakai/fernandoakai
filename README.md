@@ -1,3 +1,5 @@
+<img src = "https://media.licdn.com/dms/image/v2/D5616AQHnZyrpxWrMIw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722857423837?e=1730937600&v=beta&t=ZwWqoHcCt1JnuUDiSyB-7kx10rz7kaTkRLx3RZnfCi4"/>
+
 ## Hi there 👋
 
 <!--
